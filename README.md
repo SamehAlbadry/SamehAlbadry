@@ -3,7 +3,9 @@
 
 
 <p align="center">
-  <img src="![Uploading giphy.gif…]()" alt="animated" />
+  
+  ![Uploading giphy.gif…]()
+
 </p>
 
 
