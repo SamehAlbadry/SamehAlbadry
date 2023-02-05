@@ -4,8 +4,8 @@
 
 <p align="center">
   
-  ![Uploading giphy.gif…]()
-
+  <img src="giphy.gif" alt="animated" />
+  
 </p>
 
 
