@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sameh Albadry</h1>
 <h3 align="center">I am junior data analyst and robotics lead instructor</h3>
 <p align="center">
+  
 ![giphy](https://user-images.githubusercontent.com/100071197/216826275-11f29365-d69f-4b59-b199-cb2de8fa2bc3.gif)
+  
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samehalbadry&label=Profile%20views&color=0e75b6&style=flat" alt="samehalbadry" /> </p>
 
